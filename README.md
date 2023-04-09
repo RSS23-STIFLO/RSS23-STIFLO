@@ -16,21 +16,21 @@ Here are some ideas to get you started:
 -->
 
 # Seq. 07 of KITTI dataset
-![3D trajectory on Seq.07](docs/07_path_3D "3D trajectory on Seq.07")
+![3D trajectory on Seq.07](docs/07_path_3D.png "3D trajectory on Seq.07")
 
-![2D trajectory on Seq.07](docs/07_path "2D trajectory on Seq.07")
+![2D trajectory on Seq.07](docs/07_path.png "2D trajectory on Seq.07")
 
 # Seq. 08 of KITTI dataset
-![3D trajectory on Seq.08](docs/08_path_3D "3D trajectory on Seq.08")
+![3D trajectory on Seq.08](docs/08_path_3D.png "3D trajectory on Seq.08")
 
-![2D trajectory on Seq.08](docs/08_path "2D trajectory on Seq.08")
+![2D trajectory on Seq.08](docs/08_path.png "2D trajectory on Seq.08")
 
 # Seq. 09 of KITTI dataset
-![3D trajectory on Seq.09](docs/09_path_3D "3D trajectory on Seq.09")
+![3D trajectory on Seq.09](docs/09_path_3D.png "3D trajectory on Seq.09")
 
-![2D trajectory on Seq.09](docs/09_path "2D trajectory on Seq.09")
+![2D trajectory on Seq.09](docs/09_path.png "2D trajectory on Seq.09")
 
 # Seq. 10 of KITTI dataset
-![3D trajectory on Seq.10](docs/10_path_3D "3D trajectory on Seq.10")
+![3D trajectory on Seq.10](docs/10_path_3D.png "3D trajectory on Seq.10")
 
-![2D trajectory on Seq.10](docs/10_path "2D trajectory on Seq.10")
+![2D trajectory on Seq.10](docs/10_path.png "2D trajectory on Seq.10")
